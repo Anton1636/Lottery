@@ -29,7 +29,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/Anton1636/Lottery.git <PROJECT NAME>`
+`git clone https://github.com/Anton1636/Lottery-2.0.git <PROJECT NAME>`
 
 ## Step 2. Install dependencies
 ```sh
