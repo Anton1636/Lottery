@@ -21,7 +21,7 @@ function Jackpot({ lottery, lotteryNumbers, numbersPurchased }) {
   return (
     <div>
       <Head>
-        <title>Dapp Lottery - Jackpot</title>
+        <title>Lottery - Jackpot</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

@@ -21,7 +21,7 @@ function Result({ lottery, participantList, lotteryResult }) {
   return (
     <div>
       <Head>
-        <title>Dapp Lottery - Result</title>
+        <title>Lottery - Result</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
